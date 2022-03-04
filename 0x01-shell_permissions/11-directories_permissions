@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -Rd 755 *
+chmod a+X *
