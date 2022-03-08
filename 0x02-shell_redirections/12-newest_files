@@ -1,2 +1,2 @@
 #!/bin/bash
-head . > ls -lt | head
+head . > ls -lt | head -10
